@@ -15,4 +15,8 @@ function updateRate()
     var rateval = document.getElementById("rate").value;
     document.getElementById("rate_val").innerText=rateval;
 }
-        
+
+rate.onchange = function()
+{
+    rate_val.innerHTML = this.value;
+}
