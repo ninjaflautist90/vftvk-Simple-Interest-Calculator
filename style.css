@@ -4,14 +4,14 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
     color:black;
-    width:500px;
+    width:480px;
     padding:20px;
     border-radius:25px;
     align:center
 }
 
 table {
-    width: 50%;
+    padding-left:80px;
     align: center;
 }
 
