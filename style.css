@@ -1,5 +1,5 @@
 body {background-color:black;font-family:arial;color:white}
-h1{color:blue;font-family:verdana}
+h1{color:grey;font-family:verdana}
 
 .maindiv {
     background-color:white;
@@ -16,5 +16,5 @@ table {
 }
 
 .inputs {
-    padding-left:5px;
+    padding-left:20px;
 }
