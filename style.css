@@ -21,4 +21,10 @@ table {
 
 .computeresults {
     padding-left:80px;
+    padding-top:8px;
+    padding-bottom:10px;
+}
+
+.slider {
+    background:blue;
 }
