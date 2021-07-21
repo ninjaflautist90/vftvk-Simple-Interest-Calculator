@@ -9,3 +9,8 @@ h1{color:grey;font-family:verdana}
     border-radius:25px;
     align:center
 }
+
+table {
+    width: 200px;
+    align: center;
+}
