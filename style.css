@@ -11,6 +11,10 @@ h1{color:grey;font-family:verdana}
 }
 
 table {
-    width: 200px;
+    padding: 50px;
     align: center;
+}
+
+.inputs {
+    padding-left:20px;
 }
