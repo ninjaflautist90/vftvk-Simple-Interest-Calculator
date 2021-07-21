@@ -1,5 +1,5 @@
 body {background-color:black;font-family:arial;color:white}
-h1{color:grey;font-family:verdana}
+h1{color:black;font-family:verdana}
 
 .maindiv {
     background-color:white;
@@ -12,9 +12,14 @@ h1{color:grey;font-family:verdana}
 
 table {
     padding-left:80px;
-    align: center;
+    line-height:1.8;
 }
 
 .inputs {
     padding-left:40px;
+}
+
+.computeresults {
+    padding-left:80px;
+    line-height:1.8;
 }
