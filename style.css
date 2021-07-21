@@ -1,5 +1,5 @@
 body {background-color:black;font-family:arial;color:white}
-h1{color:grey;font-family:verdana}
+h1{color:blue;font-family:verdana}
 
 .maindiv {
     background-color:white;
@@ -11,16 +11,6 @@ h1{color:grey;font-family:verdana}
 }
 
 table {
-    padding-left:73px;
+    margin:auto;
     line-height:1.8;
-}
-
-.computeresults {
-    padding-left:80px;
-    padding-top:8px;
-    padding-bottom:10px;
-}
-
-.slider {
-    background:blue;
 }
